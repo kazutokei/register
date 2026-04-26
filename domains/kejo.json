@@ -1,0 +1,9 @@
+{
+    "owner": {
+        "username": "kazutokei"
+    },
+    "records": {
+        "A": ["76.76.21.21"],
+        "TXT": ["vc-domain-verify=kejo.is-a.dev.e7f20f1a12aa862ad9a"]
+    }
+}
